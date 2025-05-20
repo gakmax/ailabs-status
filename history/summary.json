@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 614,
-    "timeWeek": 614,
-    "timeMonth": 614,
-    "timeYear": 614,
+    "time": 625,
+    "timeDay": 625,
+    "timeWeek": 625,
+    "timeMonth": 625,
+    "timeYear": 625,
     "dailyMinutesDown": {}
   },
   {
@@ -28,13 +28,13 @@
     "uptimeWeek": "0.02%",
     "uptimeMonth": "0.02%",
     "uptimeYear": "0.02%",
-    "time": 794,
-    "timeDay": 794,
-    "timeWeek": 794,
-    "timeMonth": 794,
-    "timeYear": 794,
+    "time": 826,
+    "timeDay": 826,
+    "timeWeek": 826,
+    "timeMonth": 826,
+    "timeYear": 826,
     "dailyMinutesDown": {
-      "2025-05-20": 141
+      "2025-05-20": 146
     }
   },
   {
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ailabs-api.monitorapp.com.ico",
     "slug": "auth-test-api-401-no",
     "status": "up",
-    "uptime": "21.64%",
-    "uptimeDay": "21.64%",
-    "uptimeWeek": "21.64%",
-    "uptimeMonth": "21.64%",
-    "uptimeYear": "21.64%",
-    "time": 160,
-    "timeDay": 160,
-    "timeWeek": 160,
-    "timeMonth": 160,
-    "timeYear": 160,
+    "uptime": "24.13%",
+    "uptimeDay": "24.13%",
+    "uptimeWeek": "24.13%",
+    "uptimeMonth": "24.13%",
+    "uptimeYear": "24.13%",
+    "time": 164,
+    "timeDay": 164,
+    "timeWeek": 164,
+    "timeMonth": 164,
+    "timeYear": 164,
     "dailyMinutesDown": {
       "2025-05-20": 110
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2216,
-    "timeDay": 2216,
-    "timeWeek": 2216,
-    "timeMonth": 2216,
-    "timeYear": 2216,
+    "time": 1888,
+    "timeDay": 1888,
+    "timeWeek": 1888,
+    "timeMonth": 1888,
+    "timeYear": 1888,
     "dailyMinutesDown": {}
   }
 ]
