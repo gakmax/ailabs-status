@@ -5,6 +5,20 @@ repo: upptime # The name of this repository
 sites:
   - name: ailabs
     url: https://ailabs.monitorapp.com
+  - name: auth-test-api (401 ok)
+    url: https://ailabs-api.monitorapp.com/v1/analysis/file/status?id=100
+    method: GET
+    expectStatus: 401   # 401을 정상으로 간주
+    maxResponseTime: 10000   # 10초 이내 응답
+    followRedirects: false
+    expectedContent: Authentication Failure
+  - name: auth-test-api (401 no)
+    url: https://ailabs-api.monitorapp.com/v1/analysis/file/status?id=100
+    method: GET
+    expectStatus: 401   # 401을 정상으로 간주
+    maxResponseTime: 10000   # 10초 이내 응답
+    followRedirects: false
+    expectedContent: Authentication Failure
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
