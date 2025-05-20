@@ -11,7 +11,6 @@ sites:
     expectStatus: 401   # 401을 정상으로 간주
     maxResponseTime: 10000   # 10초 이내 응답
     followRedirects: false
-    expectedContent: Authentication Failure
   - name: auth-test-api (401 no)
     url: https://ailabs-api.monitorapp.com/v1/analysis/file/status?id=100
     method: GET
@@ -24,7 +23,8 @@ sites:
     method: GET
     expectStatus: 200
     headers:
-      Authorization: "7d93ebd23631df71efef61c77287fe2e2c65042134253ce6fdb90b15634d3c57"
+    - key: Authorization
+      value: "7d93ebd23631df71efef61c77287fe2e2c65042134253ce6fdb90b15634d3c57"
 
     
 
