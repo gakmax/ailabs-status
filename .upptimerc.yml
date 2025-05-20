@@ -23,8 +23,7 @@ sites:
     method: GET
     expectStatus: 200
     headers:
-    - key: Authorization
-      value: "7d93ebd23631df71efef61c77287fe2e2c65042134253ce6fdb90b15634d3c57"
+    - "Authorization: 7d93ebd23631df71efef61c77287fe2e2c65042134253ce6fdb90b15634d3c57"
 
     
 
