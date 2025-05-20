@@ -1,20 +1,20 @@
 [
   {
-    "name": "aaa",
-    "url": "https://pepega.tistory.com/96",
-    "icon": "https://icons.duckduckgo.com/ip3/pepega.tistory.com.ico",
-    "slug": "aaa",
+    "name": "ailabs",
+    "url": "https://ailabs.monitorapp.com",
+    "icon": "https://icons.duckduckgo.com/ip3/ailabs.monitorapp.com.ico",
+    "slug": "ailabs",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1667,
-    "timeDay": 1667,
-    "timeWeek": 1667,
-    "timeMonth": 1667,
-    "timeYear": 1667,
+    "time": 746,
+    "timeDay": 746,
+    "timeWeek": 746,
+    "timeMonth": 746,
+    "timeYear": 746,
     "dailyMinutesDown": {}
   }
 ]
