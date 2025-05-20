@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 732,
-    "timeDay": 732,
-    "timeWeek": 732,
-    "timeMonth": 732,
-    "timeYear": 732,
+    "time": 643,
+    "timeDay": 643,
+    "timeWeek": 643,
+    "timeMonth": 643,
+    "timeYear": 643,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ailabs-api.monitorapp.com.ico",
     "slug": "auth-test-api-401-ok",
     "status": "down",
-    "uptime": "13.07%",
-    "uptimeDay": "13.07%",
-    "uptimeWeek": "13.07%",
-    "uptimeMonth": "13.07%",
-    "uptimeYear": "13.07%",
-    "time": 925,
-    "timeDay": 925,
-    "timeWeek": 925,
-    "timeMonth": 925,
-    "timeYear": 925,
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 798,
+    "timeDay": 798,
+    "timeWeek": 798,
+    "timeMonth": 798,
+    "timeYear": 798,
     "dailyMinutesDown": {
-      "2025-05-20": 0
+      "2025-05-20": 105
     }
   },
   {
@@ -48,13 +48,31 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 190,
-    "timeDay": 190,
-    "timeWeek": 190,
-    "timeMonth": 190,
-    "timeYear": 190,
+    "time": 162,
+    "timeDay": 162,
+    "timeWeek": 162,
+    "timeMonth": 162,
+    "timeYear": 162,
     "dailyMinutesDown": {
-      "2025-05-20": 0
+      "2025-05-20": 105
     }
+  },
+  {
+    "name": "auth-test-api (200)",
+    "url": "https://ailabs-api.monitorapp.com/v1/analysis/file/status?id=100",
+    "icon": "https://icons.duckduckgo.com/ip3/ailabs-api.monitorapp.com.ico",
+    "slug": "auth-test-api-200",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 10194,
+    "timeDay": 10194,
+    "timeWeek": 10194,
+    "timeMonth": 10194,
+    "timeYear": 10194,
+    "dailyMinutesDown": {}
   }
 ]
