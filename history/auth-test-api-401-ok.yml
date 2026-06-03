@@ -1,7 +1,7 @@
 url: https://ailabs-api.monitorapp.com/v1/analysis/file/status?id=100
 status: down
 code: 401
-responseTime: 939
-lastUpdated: 2026-06-02T00:05:37.863Z
+responseTime: 701
+lastUpdated: 2026-06-03T00:22:32.300Z
 startTime: 2025-05-20T02:16:07.533Z
 generator: Upptime <https://github.com/upptime/upptime>
